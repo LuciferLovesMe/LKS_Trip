@@ -139,6 +139,18 @@
     <EmbeddedResource Include="MainLogin.resx">
       <DependentUpon>MainLogin.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MasterEmployee.resx">
+      <DependentUpon>MasterEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterRoute.resx">
+      <DependentUpon>MasterRoute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterVehicle.resx">
+      <DependentUpon>MasterVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterVehicleType.resx">
+      <DependentUpon>MasterVehicleType.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
